@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: mx.jackstech.net
+max_age: 3600
